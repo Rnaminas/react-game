@@ -1,0 +1,15 @@
+
+nav{
+    padding: 10px 15px;
+    background: grey;
+    color:white;
+    text-align: right;
+
+}
+.titleHead{
+    background: #f1f7ff;
+}
+h1{
+    padding: 50px;
+    line-height: 40px;
+}
